@@ -8,3 +8,5 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
  and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 sacado de google.com
+
+esto lo descubri aprendiendo a programar de cero
