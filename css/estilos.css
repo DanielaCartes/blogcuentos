@@ -1,12 +1,12 @@
 body
 {
- background: rgb(129, 122, 122);
+ background: black;
  color: rgb(77, 70, 77)
  text-align: left;
- font-family: Arial;
+ font-family: monospace;
  font-size: 16px;
  margin: 0px;
- padding: 0px;   
+ padding: 0px;
 }
 
 #cabecera
@@ -25,7 +25,7 @@ box-shadow: 0px 2px 10px 0px rgb(121, 116, 116);
 {
     width: 7%;
     height: 8%;
-    vertical-align: middle; 
+    vertical-align: middle;
 }
 
 #container
@@ -55,5 +55,5 @@ box-shadow: 0px 2px 10px 0px rgb(121, 116, 116);
     font-family:'Arial Narrow Bold';
     margin: 0;
     text-align: left;
-    padding: 1em; 
+    padding: 1em;
 }
